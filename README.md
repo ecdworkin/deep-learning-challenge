@@ -1,13 +1,14 @@
-**Report For Deep Learning Challenge**
-Overview
-    In this assignment, we analyzed data of the thousands of companies Alphabet Soup has invested in over the years and their success so that the company might have a tool to make better funding decisions moving forward. We created this tool by leveraging a machine learning model - teaching it how to identify if a company would be successful or not. It did this by analyzing the "features" (variables associated with each company that received investment) without viewing the information labeling each company as successful or not, then checking its accuracy against that information. With this model, Alphabet Soup will have one more tool to help determine whether or not they should invest in a new company.
- 
-Results:
-    Using bulleted lists and images to support your answers, address the following questions:
+#**Report For Deep Learning Challenge**
 
-Data Preprocessing
-    What variable(s) are the target(s) for your model?
-        * The target variable is the binary successful or not successful rating of each company in the data set.
+#Overview
+
+#In this assignment, we analyzed data of the thousands of companies Alphabet Soup has invested in over the years and their success so that the company might have a tool to make better funding decisions moving forward. We created this tool by leveraging a machine learning model - teaching it how to identify if a company would be successful or not. It did this by analyzing the "features" (variables associated with each company that received investment) without viewing the information labeling each company as successful or not, then checking its accuracy against that information. With this model, Alphabet Soup will have one more tool to help determine whether or not they should invest in a new company.
+ 
+#Results:
+
+#Data Preprocessing
+    #What variable(s) are the target(s) for your model?
+        #* The target variable is the binary successful or not successful rating of each company in the data set.
     What variable(s) are the features for your model?
         * The features of the data set are the other variables under consideration: application type, affiliation, classification, use case, organization, status, income amount, special considerations, and ask amount.
     What variable(s) should be removed from the input data because they are neither targets nor features?
